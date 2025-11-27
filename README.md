@@ -1,4 +1,3 @@
-# EDA-PROJECT
 # 📺 Netflix Data Analysis & Recommendation System  
 ### *Phase 1 Project*
 
